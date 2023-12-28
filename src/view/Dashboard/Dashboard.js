@@ -1,7 +1,7 @@
 import "./Dashboard.css"
-import ToggleSidebar from './../../components/Navbar/Navbar'
-import { Card } from './../../components/Card/Card'
-import DashboardCard from "../../components/DashboardCard/DashboardCard";
+import ToggleSidebar from './../../component/Navbar/Navbar'
+import { Card } from './../../component/Card/Card'
+import DashboardCard from "../../component/DashboardCard/DashboardCard";
 
 export default function Dashboard() {
     return (
